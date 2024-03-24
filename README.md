@@ -1,10 +1,9 @@
+<h1 align="center">👥led-bars-api-docs</h1>
 
-﻿<h1 align="center">👥led-bars-api-docs</h1>
-##
 ## ✍️ Overview
 This is the **official** FixtureAPI documentation for the [Premium Platforming](https://www.premiumplatforming.com/) LED Bar fixtures. For specific sections, refer to the table of contents below.
 
-Looking for the Premium Platforming Discord? [Click here!](https://discord.gg/premiumplatforming/)
+Looking for the Premium Platforming Discord? [Click here!](https://discord.com/invite/premium-platforming-841760990637850675)
 
 ### Table of Contents
 - FAQ
@@ -164,7 +163,7 @@ Additionally, there is an alphabetical value at the beginning of every effect, s
 
 ### Reference Names
 ```lua
-"a_Random Strobe", "b_Random Fade", "c_Strobe", "d_Effect_1" "e_Effect_2", "f_Effect_3", "g_Effect_4", "h_Effect_5", "i_Effect_6", "j_Effect_7", "k_Effect_8", "l_Effect_9", "m_Effect_10", "n_Effect_11", "o_Effect_12", "p_Effect_13", "q_Effect_14", "r_Effect_15", "s_Effect_16", "t_Effect_17", "u_Effect_18", "v_Effect_19", "w_Effect_20", "x_Effect_21", "y_Effect_22", "z_Effect_23" 
+"a_Random Strobe", "b_Random Fade", "c_Strobe", "d_Effect_1" "e_Effect_2", "f_Effect_3", "g_Effect_4", "h_Effect_5", "i_Effect_6", "j_Effect_7", "k_Effect_8", "l_Effect_9", "m_Effect_10", "n_Effect_11", "o_Effect_12", "p_Effect_13", "q_Effect_14", "r_Effect_15", "s_Effect_16", "t_Effect_17", "u_Effect_18", "v_Effect_19", "w_Effect_20",
 ```
 <sub>Pathing directly to the button within the panel is an option, but this option makes it easier. This only applies to "buttonReference."</sub>
 
